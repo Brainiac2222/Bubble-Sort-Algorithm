@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1734047794 source:c:\users\hp\desktop\files\c++\bubblesort\src\bubblesort.cpp
+	"BubbleSort.h"
+	<iostream>
+	<iomanip>
+	<cstdlib>
+
+1734047778 c:\users\hp\desktop\files\c++\bubblesort\include\bubblesort.h
+	<iostream>
+
+1734047947 source:c:\users\hp\desktop\files\c++\bubblesort\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	"BubbleSort.h"
+
